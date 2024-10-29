@@ -1,0 +1,190 @@
+.sucess_msg {
+  width: 200px;
+  background-color: rgb(2, 98, 2);
+  color: white;
+  border-radius: 5px;
+  position: relative;
+  margin-top: 40px;
+  font-size: 16px;
+  display: grid;
+  place-items: center;
+  margin: 40px 40px ;
+  border-radius: 15px;
+}
+table {
+  margin: 40px ;
+}
+input[type="checkbox"] {
+  display: inline-block;
+}
+label.cb-tab-content__label {
+  font-size: 1.3em;
+  font-weight: bold;
+  display: block;
+}
+input.time_field_align {
+  display: inline-block;
+}
+
+#cb_global_save_post {
+  padding: 10px 25px;
+  font-size: 1.3em;
+  background-color: rgb(2, 98, 2);
+  color: white;
+  border-radius: 10px;
+  border: 0px;
+  cursor: pointer;
+  margin: 0px 40px ;
+}
+#cb_global_save_post:hover {
+    cursor: hand;
+}
+#timeField {
+  width: 295px; /* increase the width to 300px */
+}
+#time_set_field {
+  width: 190px; /* increase the width to 300px */
+}
+h1 {
+  padding-top: 20px;
+}
+table.fixedsett {
+  table-layout: fixed;
+}
+table.widefatsett {
+  background: #fff;
+}
+table.widefatsett {
+  border: 1px solid #c3c4c7;
+  box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+}
+.widefatsett {
+  border-spacing: 0; 
+  width: 100%;
+  clear: both;
+  margin: 0;
+}
+table {
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: grey;
+}
+.widefatsett td, .widefatsett th {
+  color: #50575e;
+}
+.widefatsett td, .widefatsett td ol, .widefatsett td p, .widefatsett td ul {
+  font-size: 13px;
+  line-height: 1.5em;
+}
+.widefatsett td {
+  vertical-align: top;
+}
+.widefatsett td, .widefatsett th {
+  padding: 8px 10px;
+}
+.widefatsett * {
+  word-wrap: break-word;
+}
+td {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+user agent stylesheet
+td {
+  display: table-cell;
+  vertical-align: inherit;
+}
+.widefatsett {
+  border-spacing: 0;
+  width: 100%;
+  clear: both;
+  margin: 0;
+}
+user agent stylesheet
+table {
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 2px;
+}
+
+
+column {
+  padding-top: 4px;
+  vertical-align: middle;
+}
+.updates-table tbody td.check-column-sett, .widefatsett tbody th.check-column-sett, .widefatsett tfoot td.check-column-sett, .widefatsett thead td.check-column-sett {
+  padding: 11px 0 0 3px;
+}
+.widefatsett .check-column-sett {
+  width: 2.2em;
+  padding: 6px 0 25px;
+  vertical-align: top;
+}
+.widefatsett tfoot tr td, .widefatsett tfoot tr th, .widefatsett thead tr td, .widefatsett thead tr th {
+  color: #2c3338;
+}
+.widefatsett tfoot td, .widefatsett th, .widefatsett thead td {
+  font-weight: 400;
+}
+#nav-menu-footer, #nav-menu-header, #your-profile #rich_editing, .checkbox, .control-section .accordion-section-title, .menu-item-handle, .postbox .hndle, .side-info, .sidebar-name, .stuffbox .hndle, .widefatsett tfoot td, .widefatsett tfoot th, .widefatsett thead td, .widefatsett thead th, .widget .widget-top {
+  line-height: 1.4em;
+}
+.widefatsett tfoot td, .widefatsett th, .widefatsett thead td {
+  text-align: left;
+  line-height: 1.3em;
+  font-size: 14px;
+}
+.widefatsett thead td, .widefatsett thead th {
+  border-bottom: 1px solid #c3c4c7;
+}
+.widefatsett td, .widefatsett th {
+  color: #50575e;
+}
+.widefatsett td, .widefatsett td ol, .widefatsett td p, .widefatsett td ul {
+  font-size: 13px;
+  line-height: 1.5em;
+}
+.widefatsett td {
+  vertical-align: top;
+}
+.widefatsett td, .widefatsett th {
+  padding: 8px 10px;
+}
+.widefatsett * {
+  word-wrap: break-word;
+}
+td {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+td {
+  display: table-cell;
+  vertical-align: inherit;
+}
+.widefatsett {
+  border-spacing: 0;
+  width: 100%;
+  clear: both;
+  margin: 0;
+}
+.check_title{
+width:100px;
+  
+}
+table {
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 2px;
+}
+.setting_head{
+  font-size: 20px;
+  font-weight: bold;
+}
